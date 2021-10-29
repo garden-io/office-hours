@@ -36,8 +36,14 @@ After registering, you will receive a confirmation email. Remember to add the sl
 
 ## Topic Submission
 
-We want to make sure we're Here's where you can submit a topic to discuss at the Office Hours!
+We want to make sure we're Here's where you can submit a topic to discuss at the Office Hours! [Submit your topic here!](https://github.com/garden-io/office-hours/issues/new?assignees=&labels=topic+suggestion&template=NEW_TOPIC.md&title=%5BTOPIC%5D%3A+)
 
-We want to make sure we're Here's where you can submit a topic to discuss at the Office Hours!
+## Next events
 
-[Submit your topic here!](https://github.com/garden-io/office-hours/issues/new?assignees=&labels=topic+suggestion&template=NEW_TOPIC.md&title=%5BTOPIC%5D%3A+)
+| Date | Topic | Description  |
+|---|---|--|
+| 29.10.2021  | Insert topic  | Insert description
+| 05.11.2021  | Insert topic  | Insert description
+| 12.11.2021  | Insert topic  | Insert description
+| 19.11.2021  | Insert topic  | Insert description
+| 26.11.2021  | Insert topic  | Insert description
