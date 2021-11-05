@@ -43,7 +43,7 @@ We want to make sure we're Here's where you can submit a topic to discuss at the
 | Date | Topic | Description  |
 |---|---|--|
 | 29.10.2021  | Public Issue Triage  | Come along with any issue you've been facing!
-| 05.11.2021  | TBD  | -
+| 05.11.2021  | Hands-on: Migrating to Garden  | Join us for a practical session to try migrating to Garden
 | 12.11.2021  | TBD  | -
 | 19.11.2021  | TBD  | -
 | 26.11.2021  | TBD  | -
