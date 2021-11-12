@@ -10,7 +10,7 @@ We set aside half an hour every Friday to invite anyone in the Garden Community 
 
 Anything and everything Garden! We recently been discussing DevOps and Kubernetes related topics, and we host a four-weekly Public Issue Triage session.
 
-We also want to get closer to the issues the Community itself is facing. So we have a place in this repo to allow you to submit your own topic ← LINK.
+We also want to get closer to the issues the Community itself is facing. So we have a place in this repo to allow you to submit your [own topic](https://github.com/garden-io/office-hours/issues/new?assignees=&labels=topic+suggestion&template=NEW_TOPIC.md&title=%5BTOPIC%5D%3A+).
 
 ## Okay, I'm interested! When is it?
 
@@ -36,7 +36,7 @@ After registering, you will receive a confirmation email. Remember to add the sl
 
 ## Topic Submission
 
-We want to make sure we're Here's where you can submit a topic to discuss at the Office Hours! [Submit your topic here!](https://github.com/garden-io/office-hours/issues/new?assignees=&labels=topic+suggestion&template=NEW_TOPIC.md&title=%5BTOPIC%5D%3A+)
+Have you built something cool with Garden and want to demo it? Do you want to discuss your Garden configuration pattern or need help with a specific issue? Here's where you can suggest a topic to discuss at the Office Hours! [Submit your topic here!](https://github.com/garden-io/office-hours/issues/new?assignees=&labels=topic+suggestion&template=NEW_TOPIC.md&title=%5BTOPIC%5D%3A+)
 
 ## Next events
 
